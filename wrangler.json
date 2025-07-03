@@ -6,7 +6,9 @@
   "observability": {
     "enabled": false
   },
-  "logging": false,
+  "vars": {
+    "logging": false
+  },
   "r2_buckets": [
     {
       "bucket_name": "rpm",
